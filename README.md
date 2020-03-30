@@ -1,5 +1,5 @@
-# GMOS-spec\
-## Reduce GMOS spectra\
+# GMOS-spec
+## Reduce GMOS spectra
 
 This repository contains three scripts to perform data reduction of GMOS spectra.
 The steps to be run are:
