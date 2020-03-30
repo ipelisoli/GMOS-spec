@@ -19,5 +19,5 @@ of course it will not request data on the calibration directory, but instead it 
 in the previous step to flux calibrate the science spectra.
 
 The steps followed by these scripts are described here: http://drforum.gemini.edu/topic/gmos-mos-guidelines-part-1/
-(skipping MOS specific stuff)
+(skipping MOS specific stuff)\
 Big thanks to user mangelo who suggested the above recipe.
