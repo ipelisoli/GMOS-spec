@@ -4,7 +4,7 @@
 This repository contains three scripts to perform data reduction of GMOS spectra.
 The steps to be run are:
 1. Download data from the Gemini archive.
-2. Organize your directory. Put bias files in a separate director, and preferably do the same for files concerning the
+2. Organize your directory. Put bias files in a separate directory, and preferably do the same for files concerning the
 standard star.
 3. In the Bias directory, run MakeBias.py (it will usee *all* .fits files in that directory).
 4. In the Standard directory, run ReduceStandard.py. This script is interactive. It will first prompt for the flat file. One
